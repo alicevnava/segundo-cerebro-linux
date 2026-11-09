@@ -123,8 +123,8 @@ Exemplo de como clicar em uma citação e conferir o trecho da fonte: `prints/10
 
 ## Materiais gerados no Estúdio
 
-- Mapa mental: [`materiais/mapa-mental.png`](materiais/mapa-mental.png)
-- Slides (formato detalhado, tamanho padrão): [`materiais/slides.pdf`](materiais/slides.pdf)
+- Mapa mental: [mapa-mental.png](materiais/mapa-mental.png)
+- Slides (formato detalhado, tamanho padrão): [slides.pdf](materiais/slides.pdf)
 
 O relatório (guia de estudos) não foi gerado por causa do limite de uso da ferramenta.
 
